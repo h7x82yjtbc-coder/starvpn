@@ -34,4 +34,23 @@ vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@51.195.109.34:443?flow=xtls-rprx-vi
 vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@152.228.133.47:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇫🇷 Франция | LTE
 vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@72.56.73.78:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇳🇱 Нидерланды | LTE
 vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@85.192.49.203:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇫🇮 Финляндия | LTE
-vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@51.195.109.34:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇩🇪 Германия | LTE 2 (дубль? уже есть — удаляю один, оставляю уникальные)
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@51.195.109.34:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇩🇪 Германия | LTE 2 
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@144.31.4.207:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇵🇱 Польша
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@72.56.249.226:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇷🇺 Россия
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@85.192.49.203:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇫🇮 Финляндия 1
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@5.129.214.44:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇳🇱 Нидерланды 1
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@51.195.109.34:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇩🇪 Германия 1
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@152.53.133.72:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇩🇪 Германия 2
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@57.131.22.211:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇮🇹 Италия
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@148.113.172.192:8443?encryption=none&type=ws&path=%2Fsubscribe%2Fws&security=none#🇨🇦 Канада
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@152.53.133.72:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇩🇪 Германия NVIDIA
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@51.195.109.34:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇩🇪 Германия NVIDIA 2
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@152.228.133.47:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇫🇷 Франция NVIDIA
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@72.56.73.78:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇳🇱 Нидерланды NVIDIA
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@85.192.49.203:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.nvidia.com&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇫🇮 Финляндия NVIDIA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSkpHTHk2UWEwa0JwRHRZdGNGcHBabm92TEh2MS1fVg==@152.228.133.47:9999#🇫🇷 Франция SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSkpHTHk2UWEwa0JwRHRZdGNGcHBabm92TEh2MS1fVg==@152.53.39.104:9999#🇺🇸 США SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSkpHTHk2UWEwa0JwRHRZdGNGcHBabm92TEh2MS1fVg==@5.129.214.44:9999#🇳🇱 Нидерланды SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSkpHTHk2UWEwa0JwRHRZdGNGcHBabm92TEh2MS1fVg==@85.192.49.203:9999#🇫🇮 Финляндия SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSkpHTHk2UWEwa0JwRHRZdGNGcHBabm92TEh2MS1fVg==@144.31.3.117:9999#🇵🇱 Польша SS
+vless://48ea4f5f-da58-4a33-bf19-5b1b2504159a@5.129.214.44:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=ads.x5.ru&fp=chrome&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&headerType=none#🇳🇱 Нидерланды NVIDIA (альт) — но это уже есть? Проверим.
